@@ -1,0 +1,18 @@
+   {"products": [
+    {
+        "id":0,
+       " title":"kapele",
+        "price":"12",
+        "category":  "electronics",
+        "description":"kapele tradicionale",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Traditional_Albanian_caps_in_Kruja.jpg/800px-Traditional_Albanian_caps_in_Kruja.jpg"
+    },
+    {
+        "id":1,
+       " title":"kapele",
+        "price":"12",
+        "category":  "electronics",
+        "description":"kapele tradicionale",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Traditional_Albanian_caps_in_Kruja.jpg/800px-Traditional_Albanian_caps_in_Kruja.jpg"
+    }
+]}
