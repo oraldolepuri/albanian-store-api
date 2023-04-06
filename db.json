@@ -1,7 +1,7 @@
    {"products": [
     {
         "id":0,
-       " title":"kapele",
+       "title":"kapele",
         "price":"12",
         "category":  "electronics",
         "description":"kapele tradicionale",
@@ -9,7 +9,7 @@
     },
     {
         "id":1,
-       " title":"kapele",
+       "title":"kapele",
         "price":"12",
         "category":  "electronics",
         "description":"kapele tradicionale",
