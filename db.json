@@ -1,18 +1,43 @@
    {"products": [
-    {
+      {
         "id":0,
-       "title":"kapele",
-        "price":"12",
-        "category":  "electronics",
-        "description":"kapele tradicionale",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Traditional_Albanian_caps_in_Kruja.jpg/800px-Traditional_Albanian_caps_in_Kruja.jpg"
+       "title":"Xhublete",
+        "price":"2500",
+        "category":"Femra",
+        "description":"Xhubleta është një fund në trajtë këmbane, që vjen i valëzuar përfundi, sidomos në pjesën e mbrapme. Përbëhej nga një numër i madh copash e rripash të ngushtë shajaku, qepur horizontalisht dhe të ndërthurur me breza gajtanësh. Mbahet e varur në supe me dy rripa të gjërë.",
+        "image":"https://www.kultplus.com/wp-content/uploads/2019/05/xhubletaaa.jpg"
     },
     {
         "id":1,
-       "title":"kapele",
-        "price":"12",
-        "category":  "electronics",
-        "description":"kapele tradicionale",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Traditional_Albanian_caps_in_Kruja.jpg/800px-Traditional_Albanian_caps_in_Kruja.jpg"
+       "title":"Xhamadan",
+        "price":"1500",
+        "category":"Meshkuj",
+        "description":"Xhamadani është një pjesë e sipërme e veshjes tradicionale shqiptare e cila përbëhet prej leshit.[1] Ajo mund të jetë me mëngë të shkurtra ose pa mëngë.",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Xhamadani.jpg/640px-Xhamadani.jpg"
+    },
+    {
+        "id":2,
+       "title":"Brez",
+        "price":"17000",
+        "category":  "Meshkuj",
+        "description":"Brezi i cili në disa zona quhet shoka, paraqet në vetvete një element të rëndësishëm dhe të pandarë të veshjes tradicionale shqiptare. ",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/0/09/Scarf_and_Jamadan.jpg"
+    },
+    {
+        "id":3,
+       "title":"Jelek",
+        "price":"2500",
+        "category":"Meshkuj",
+        "description":"Jelek I Shqipërisë së mesme për meshkuj i qëndisur me dorë sipas origjinalit të vjetër, i punuar me fije ari",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaCXHQ44nu4CbL_8u3FS3NeaJ91UtkpjQBmxyv6qCext77iGWGYUbL6GHNntCUd3WoZo0&usqp=CAU"
+    },
+      {
+        "id":4,
+       "title":"Corape",
+        "price":"1000",
+        "category":"Femra",
+        "description":"Çorapet tradicionale janë pjesë e veshjeve tradicionale shqiptare të cilat janë punuar nga leshi ose pambuku, dhe kanë shumë motive dhe ngjyra, nganjëherë duke përfshirë fije shumë të holla metalike.",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/e/e7/Corape.jpg"
     }
+
 ]}
