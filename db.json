@@ -1,6 +1,6 @@
    {"products": [
       {
-        "id":0,
+        "id":1,
        "title":"Xhublete",
         "price":"2500",
         "category":"Femra",
@@ -8,7 +8,7 @@
         "image":"https://www.kultplus.com/wp-content/uploads/2019/05/xhubletaaa.jpg"
     },
     {
-        "id":1,
+        "id":2,
        "title":"Xhamadan",
         "price":"1500",
         "category":"Meshkuj",
@@ -16,7 +16,7 @@
         "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Xhamadani.jpg/640px-Xhamadani.jpg"
     },
     {
-        "id":2,
+        "id":3,
        "title":"Brez",
         "price":"17000",
         "category":  "Meshkuj",
@@ -24,7 +24,7 @@
         "image":"https://upload.wikimedia.org/wikipedia/commons/0/09/Scarf_and_Jamadan.jpg"
     },
     {
-        "id":3,
+        "id":4,
        "title":"Jelek",
         "price":"2500",
         "category":"Meshkuj",
@@ -32,7 +32,7 @@
         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaCXHQ44nu4CbL_8u3FS3NeaJ91UtkpjQBmxyv6qCext77iGWGYUbL6GHNntCUd3WoZo0&usqp=CAU"
     },
       {
-        "id":4,
+        "id":5,
        "title":"Corape",
         "price":"1000",
         "category":"Femra",
